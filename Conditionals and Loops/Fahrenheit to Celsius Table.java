@@ -26,7 +26,7 @@ Sample Output 1:
 20  -6
 40  4
 60  15
-80  26
+80  26      
 100 37
 
 Sample Input 2:
